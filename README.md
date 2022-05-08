@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi There 👋 
+# Welcome to my git repo!
 
-<!--
-**amirbashan/amirbashan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here are some of my favorite projects that I've worked on in the last few months.
 
-Here are some ideas to get you started:
+To see the code, take a deeper look into my repositories.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Retro Arcade Website: https://youtu.be/zub5VDROQVI
+
+Deltika Ltd Product site: https://youtu.be/cXqHgyv9TFc
+
+ITC Hackathon Project: https://github.com/amirbashan/ITC-Hackathon
+
+Some projects weren't video recorded but are still on my repo.
+
+Thanks for coming, and enjoy!
