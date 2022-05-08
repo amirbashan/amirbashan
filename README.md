@@ -9,7 +9,7 @@ Retro Arcade Website: https://youtu.be/zub5VDROQVI
 
 Deltika Ltd Product site: https://youtu.be/cXqHgyv9TFc
 
-ITC Hackathon Project: https://github.com/amirbashan/ITC-Hackathon
+ITC Transportation Hackathon Project: https://github.com/amirbashan/ITC-Hackathon
 
 Some projects weren't video recorded but are still on my repo.
 
